@@ -27,7 +27,7 @@
 
 | S/N | Project | Description | Tech Stack | Author | Link |
 |-----|---------|-------------|------------|:--------:|:------:|
-| 1 | Python - Folder Organiser | Built using **Python** and standard libraries like `os` and `shutil`. No external tools needed — just clean, simple code 🐍📁 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Me | [Devpost](https://test-25350.devpost.com/) |
+| 1 | Python - Folder Organiser | Built using **Python** and standard libraries like `os` and `shutil`. No external tools needed — just clean, simple code 🐍📁 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Me | [Devpost](https://devpost.com/software/file-organizer-mqbuvw?ref_content=my-projects-tab&ref_feature=my_projects)/[GitHub](https://github.com/onyxwizard/hackathon/tree/main/2025/MAY/Python_Folder_Organiser) |
 
 > _Want to add more projects from this year? Just follow the folder structure and update the table above._
 
